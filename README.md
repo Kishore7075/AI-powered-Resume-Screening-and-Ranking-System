@@ -27,7 +27,7 @@ Resume Ranking
 
 🏗️ Installation & Setup
 Clone the Repository
-git clone https://github.com/rutikakengal/AI-Resume-Screening-And-System-Ranking.git
+git clone 
 cd AI-Resume-Screening-And-System-Ranking
 Install Dependencies
 pip install -r requirements.txt
